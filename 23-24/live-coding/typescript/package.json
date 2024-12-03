@@ -10,6 +10,6 @@
     "build-watch": "tsc -w"
   },
   "dependencies": {
-    "immutable": "^5.0.0-beta.4"
+    "immutable": "^5.0.2"
   }
 }
